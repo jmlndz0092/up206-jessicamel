@@ -10,6 +10,7 @@ Hi Everyone! My name is Jessica Melendez. I'm a first generation Chicana student
 # **Intro to GIS & Spatial Data Science**
 The purpose of this course it to build our understanding around spatial data analysis and develop our skills around the fundamentals of using Python programming.
 # **Project Ideas**
+For this project I would like to explore the relationship between community economic development, affordable housing and the level of arrests across communities of color in the city of Los Angeles. I want to see if there is a relationship between the amount of arrests that occur in these areas and the amount of affordable housing that gets built, or not, in the area as well as the amound to economic development that occurs in this area.
 
 # **Objectives for UP206A**
 I do not have a technical background whatsoever, however, recently I've become more and more interested in learning about using spatial data to develop maps and telling a story through those maps. This past summer I was a research fellow for Stop LAPD Spying Coalition and I saw how one of their committees worked together to map out policing mechanisms like Operation LASER, Anchor Points and mark areas where police have murdered residents over the last few years in order to shed light on the communities of color LAPD has continued to target and terrorize. 
